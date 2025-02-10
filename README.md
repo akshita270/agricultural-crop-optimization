@@ -7,6 +7,9 @@ This project aims to recommend the best-suited crop for cultivation based on var
 Dataset
 
 The dataset contains:
+N: Nitrogen
+
+P: Potassium
 
 pH: Soil pH level
 
