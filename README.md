@@ -25,7 +25,6 @@ The dataset includes the following features:
 ## **Results**
 
 - **98% accuracy** using **SVM**.
-- Implemented **deep learning techniques** for **improved predictions**.
 - Visualized feature relationships with a **correlation heatmap**.
 - Evaluated model performance with **visualizations**:
    - **Heatmaps**
