@@ -20,7 +20,7 @@ The dataset includes the following features:
 1. **Logistic Regression**
 2. **Decision Tree**
 3. **Support Vector Machine (SVM)** - Achieved **98% accuracy** 🏆
-4. **Deep Learning Model** - Enhanced version with **additional feature engineering** for better predictions
+
 
 ## **Results**
 
